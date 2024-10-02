@@ -1,7 +1,9 @@
 # FOODIEHUB
 its our team work 
- @RANJITHA14102004 
-
+team members are
+@Rakesh200416 
+@RANJITHA14102004 
+@rajeswaribadiger2004
 FoodieHub
 
 FoodieHub is a dynamic food delivery web application designed to bridge the gap between food enthusiasts and their favorite restaurants. Built with a focus on simplicity and efficiency, FoodieHub offers users a seamless experience in discovering and ordering food from a wide range of local eateries.
