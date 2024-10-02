@@ -50,10 +50,6 @@ it is the home page of FOODIEHUB aplication and in this there are login or rigis
 
 
 
-![Screenshot 2024-10-02 105149](https://github.com/user-attachments/assets/5ab17cdf-9700-4f9e-9c6e-8a58c56150ea)
-
-
-
 ![Screenshot 2024-10-02 105203](https://github.com/user-attachments/assets/0ff7ac1e-9c36-413f-a689-cad98bea9714)
 
 
