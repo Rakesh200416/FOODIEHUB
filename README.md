@@ -37,3 +37,6 @@ Offers easy restaurant management and order tracking, making it convenient for b
 
 Designed to compete with established platforms by focusing on a smooth and reliable user experience.
 ![Screenshot 2024-10-02 105050](https://github.com/user-attachments/assets/01a0a7cc-adaa-4fb3-ac63-ca0867c6f7ab)
+it is the home page of FOODIEHUB aplication and in this there are login or rigister and shope about us and contact us options are given
+
+![Screenshot 2024-10-02 105109](https://github.com/user-attachments/assets/b280b286-af65-410e-b8bb-f21654525461)
