@@ -1,9 +1,12 @@
 # FOODIEHUB
 its our team work 
-team members are
+
+team members are:
+
 @Rakesh200416 
 @RANJITHA14102004 
 @rajeswaribadiger2004
+
 FoodieHub
 
 FoodieHub is a dynamic food delivery web application designed to bridge the gap between food enthusiasts and their favorite restaurants. Built with a focus on simplicity and efficiency, FoodieHub offers users a seamless experience in discovering and ordering food from a wide range of local eateries.
@@ -39,6 +42,14 @@ Provides a seamless, user-friendly platform tailored for food lovers.
 Offers easy restaurant management and order tracking, making it convenient for both users and restaurant partners.
 
 Designed to compete with established platforms by focusing on a smooth and reliable user experience.
+
+
+
+
+https://github.com/user-attachments/assets/2ea31d20-d705-43b9-ad26-c27ea7939943
+
+
+
 ![Screenshot 2024-10-02 105050](https://github.com/user-attachments/assets/01a0a7cc-adaa-4fb3-ac63-ca0867c6f7ab)
 it is the home page of FOODIEHUB aplication and in this there are login or rigister and shope about us and contact us options are given
 
