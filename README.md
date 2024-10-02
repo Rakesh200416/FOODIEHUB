@@ -40,3 +40,10 @@ Designed to compete with established platforms by focusing on a smooth and relia
 it is the home page of FOODIEHUB aplication and in this there are login or rigister and shope about us and contact us options are given
 
 ![Screenshot 2024-10-02 105109](https://github.com/user-attachments/assets/b280b286-af65-410e-b8bb-f21654525461)
+
+
+
+![Screenshot 2024-10-02 105130](https://github.com/user-attachments/assets/a83a9fcd-73ad-43f3-b913-e77744bd6b3b)
+
+
+![Screenshot 2024-10-02 105149](https://github.com/user-attachments/assets/5ab17cdf-9700-4f9e-9c6e-8a58c56150ea)
