@@ -1,11 +1,11 @@
 # FOODIEHUB
 its our team work 
 
-team members are:
+project collaborators are:
 
-@Rakesh200416 
+@Rakesh200416   
 
-@RANJITHA14102004 
+@RANJITHA14102004
 
 @rajeswaribadiger2004
 
